@@ -1,0 +1,16 @@
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\PokemonOOP.exe
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\PokemonOOP.deps.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\PokemonOOP.runtimeconfig.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\PokemonOOP.runtimeconfig.dev.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\PokemonOOP.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\ref\PokemonOOP.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\bin\Debug\net5.0\PokemonOOP.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.csprojAssemblyReference.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.AssemblyInfoInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.AssemblyInfo.cs
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.csproj.CoreCompileInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\ref\PokemonOOP.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\PokemonOOP\obj\Debug\net5.0\PokemonOOP.genruntimeconfig.cache
